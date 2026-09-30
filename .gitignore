@@ -1,0 +1,5 @@
+.env
+.venv/
+venv/
+__pycache__/
+agent_state.db
